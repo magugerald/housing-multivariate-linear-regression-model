@@ -1,5 +1,7 @@
 # Housing multivariate linear regression model
 
+![Housing](housing.png)
+
 The task aimed to create simple linear regression models and a multivariate linear regression model using a housing dataset. The dataset contained 6 variables (PRICE, HEIGHT, WIDTH, SIGNED, PICTURE, HOUSE) and 431 observations.
 
 In the simple linear regression model, two main variables were used for the first model.
